@@ -1,8 +1,11 @@
 # Cypress E2E Testing Framework
 ### E2E tests for OSS Moodle
 ## Setup
-1. Download or clone repo
-2. Edit `cypress.config.js` file
-3. Under `studentEmail` and `studentPassword` input correct credentials.
-4. Save file and exit
-5. Open `cypress.exe` and run E2E tests
+
+1. Download and install Cypress (https://download.cypress.io/desktop)
+2. Download or clone repo
+3. Edit `cypress.config.js` file
+4. Under `studentEmail` and `studentPassword` input correct credentials.
+5. Save file and exit
+6. Open `cypress.exe` and run E2E tests
+
